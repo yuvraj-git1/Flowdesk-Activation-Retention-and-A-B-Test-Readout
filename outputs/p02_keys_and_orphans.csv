@@ -1,0 +1,9 @@
+chk,n
+events.event_id dup,0
+users.user_id dup,0
+accounts.account_id dup,0
+events -> users orphans,0
+events.account_id <> users.account_id,0
+users -> accounts orphans,0
+assignments -> experiments orphans,0
+accounts with !=1 owner,0

@@ -1,0 +1,3 @@
+event_name,platform,app_version,dup_groups,extra_rows,first_ts,last_ts
+task_completed,android,4.2.1,2361,2361.0,2024-10-14 00:03:14,2024-11-03 23:41:40
+task_completed,android,,3,3.0,2024-10-19 21:01:53,2024-11-01 17:04:33

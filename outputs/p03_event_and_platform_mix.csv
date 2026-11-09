@@ -1,0 +1,15 @@
+event_name,n,pct,users
+session_start,860099,24.9,121750
+task_completed,836272,24.2,95206
+task_created,774400,22.4,83873
+comment_added,214513,6.2,52597
+task_assigned,167177,4.8,48517
+project_created,155942,4.5,92121
+paywall_viewed,122546,3.6,44647
+signup_completed,120991,3.5,120991
+teammate_invited,80974,2.3,31893
+invite_accepted,80974,2.3,80974
+integration_connected,23969,0.7,17464
+upgrade_clicked,4185,0.1,4185
+subscription_started,4185,0.1,4185
+checkout_started,4185,0.1,4185

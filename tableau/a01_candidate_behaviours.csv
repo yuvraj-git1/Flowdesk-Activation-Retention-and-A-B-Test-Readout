@@ -1,0 +1,10 @@
+beh,prevalence_pct,w12_with,w12_without,lift_pp
+>=10 tasks completed in 7d,1.1,65.9,27.1,38.7
+invited teammate within 3d,27.6,49.0,19.4,29.7
+>=3 sessions in 7d,19.1,51.4,21.9,29.4
+>=1 comment in 7d,14.8,48.9,23.8,25.1
+>=1 task assigned in 7d,12.3,49.2,24.5,24.7
+invited teammate within 7d,35.9,42.1,19.4,22.7
+connected integration in 7d,2.2,49.2,27.1,22.1
+"activated (project + 3 tasks, 7d)",42.1,35.9,21.5,14.4
+created a project in 7d,68.1,30.3,21.7,8.5

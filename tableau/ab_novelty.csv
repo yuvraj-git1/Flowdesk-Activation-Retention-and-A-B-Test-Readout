@@ -1,0 +1,7 @@
+experiment_id,name,slope_pp_per_week,slope_se,slope_p,first2wk_pp,last2wk_pp
+1,onboarding_checklist,-3.7619,0.9697,0.0001,15.6477,0.5515
+2,new_onboarding_flow,0.2857,0.8065,0.7231,2.1549,5.0535
+3,pricing_page_redesign,-0.9251,0.7483,0.2164,3.7852,-1.1119
+4,invite_prompt,-0.4581,1.3183,0.7282,6.2839,5.2926
+5,annual_discount_banner,0.8765,0.547,0.1091,-1.2118,2.634
+6,dark_mode_default,-0.1392,0.7498,0.8528,1.6667,1.5496

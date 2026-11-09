@@ -1,0 +1,6 @@
+step,users,pct_of_signups,step_conv
+1 signup,39138.0,100.0,
+2 any activity in 7d,39138.0,100.0,100.0
+3 project created,26593.0,67.9,67.9
+4 >=1 task completed,23231.0,59.4,87.4
+5 ACTIVATED (project + 3 tasks),16445.0,42.0,70.8

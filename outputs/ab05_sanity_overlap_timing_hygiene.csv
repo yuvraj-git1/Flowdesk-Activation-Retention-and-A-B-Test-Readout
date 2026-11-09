@@ -1,0 +1,7 @@
+chk,n
+users assigned to 2+ user-level experiments,0.0
+assigned before signup (>60s),0.0
+avg seconds from signup to assignment,60.0
+test accounts inside experiments,8.0
+duplicate accounts inside experiments,161.0
+user-unit assignments that are NOT owners,9307.0

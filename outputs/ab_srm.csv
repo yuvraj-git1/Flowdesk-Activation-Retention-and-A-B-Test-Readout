@@ -1,0 +1,7 @@
+experiment_id,name,n_control,n_treatment,pct_treatment,chi2,p_value,srm_flag,srm_warning
+1,onboarding_checklist,1753,1785,50.45223,0.28943,0.59059,False,False
+2,new_onboarding_flow,2464,2377,49.10143,1.56352,0.21115,False,False
+3,pricing_page_redesign,842,749,47.07731,5.4362,0.01972,False,True
+4,invite_prompt,849,860,50.32183,0.0708,0.79017,False,False
+5,annual_discount_banner,1077,1116,50.88919,0.69357,0.40495,False,False
+6,dark_mode_default,2806,2887,50.7114,1.15247,0.28303,False,False

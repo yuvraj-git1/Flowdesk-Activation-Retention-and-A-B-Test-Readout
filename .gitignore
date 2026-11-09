@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+.venv/
+*.duckdb
+work.sqlite
+# full dataset (generated, ~400 MB): rebuild with the Flowdesk generator
+data/csv/
+# sample-mode runs
+outputs_sample/
